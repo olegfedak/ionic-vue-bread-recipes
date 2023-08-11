@@ -1,0 +1,7 @@
+{
+  "name": "ionic-vue-bread-recipes",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
